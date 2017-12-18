@@ -1,0 +1,17 @@
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\bin\Debug\Brezenham.exe
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\bin\Debug\Brezenham.pdb
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.Form1.resources
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.Properties.Resources.resources
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.csproj.GenerateResource.Cache
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.exe
+C:\Documents and Settings\KS\Мои документы\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.pdb
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\bin\Debug\Brezenham.exe
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\bin\Debug\Brezenham.pdb
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.Form1.resources
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.Properties.Resources.resources
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.csproj.GenerateResource.Cache
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.exe
+C:\Users\Paul\Documents\Visual Studio 2008\Projects\Brezenham\Brezenham\obj\Debug\Brezenham.pdb
